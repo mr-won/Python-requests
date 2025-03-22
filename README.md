@@ -41,4 +41,7 @@ if __name__ == "__main__":
 scanner.py 로 저장하고
 ```
 python scanner.py
-``` 실행
+```
+
+결과를 파일로 저장하는 로직 추가 예정
+upd포트스캔, 여러 ip 동시에 스캔 기능 추가

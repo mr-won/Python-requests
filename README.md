@@ -1,3 +1,10 @@
+
+TCP 포트 스캔
+
+다중 스레딩을 사용한 빠른 스캔
+
+포트가 열려 있는 경우 출력
+
 ```python
 import socket
 import threading
